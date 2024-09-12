@@ -1,7 +1,7 @@
 # CitiBike Data Analysis using Tableau
 
 ## Resources
-Citi Bike Trip History Logs found on this site: https://s3.amazonaws.com/tripdata/index.html
+Citi Bike Trip History Logs for January 2023 can be found on this link: [https://s3.amazonaws.com/tripdata/index.html](https://s3.amazonaws.com/tripdata/2023-citibike-tripdata.zip)
 
 ## Tableau Public Link:
   
