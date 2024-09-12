@@ -13,13 +13,13 @@ Citi Bike Trip History Logs for January 2023 can be found on this link: [https:/
 
 2. **Top and Bottom 10 Stations Starting and Ending a Journey**
    By creating a bar chart, the top station used to start and end a journey is **W 21 St & 6 Ave**
-![Stations]()   
+![Stations](https://github.com/omidk414/tableau-challenge/blob/main/images/Stations.png)   
    
 3. **Map of the Popular Start Stations**
    The records is set to size to show the different sized circles correlating to the stations. 
-![Map1]()
+![Map1](https://github.com/omidk414/tableau-challenge/blob/main/images/Start_Map.png)
 
 4. **Map of the Popular End Stations**
    
-![Map2]()   
+![Map2](https://github.com/omidk414/tableau-challenge/blob/main/images/End_Map.png)   
 
