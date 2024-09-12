@@ -1,8 +1,11 @@
 ## CitiBike Data Analysis for January 2023
 
+Tableau Public Link:
+https://public.tableau.com/app/profile/omid.khan/viz/citibikes_17261112802020/Story?publish=yes
+
 ### 1. Data Overview
 
-The analysis is based on CitiBike's Trip History Logs for January 2023, which consist of 1,000,000 records. The dataset contains the following columns:
+The analysis is based on CitiBike's Trip History Logs for January 2023, which consist of 1,000,000 records. The dataset can be downloaded from this link https://s3.amazonaws.com/tripdata/2023-citibike-tripdata.zip. The dataset contains the following columns:
 
 - **ride_id**: Unique identifier for each ride
 - **rideable_type**: Type of bike used (e.g., classic, electric)
